@@ -1,4 +1,4 @@
-# Homepage
+# Homepage; edited
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
